@@ -1,0 +1,4 @@
+GPIO Port: A
+GPIO Pin: 5
+Blink Period (ms): 200
+Cycles: 4
