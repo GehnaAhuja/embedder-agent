@@ -7,7 +7,7 @@ This project takes a datasheet-like snippet (GPIO port, pin, blink period, cycle
 ---
 
 ## 🎥 Demo Video
-[![Watch the demo](Embedder-Agent.mp4)]  
+[Watch the demo](Embedder-Agent.mp4) 
 
 ---
 
